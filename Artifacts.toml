@@ -1,0 +1,459 @@
+[[TMatrix]]
+arch = "aarch64"
+git-tree-sha1 = "322915d522bec567e216eecd02c168321c3740c6"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[TMatrix.download]]
+    sha256 = "215c09b813697082496ab5861007dc5806907061dc33c6c253a3e99535d84759"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "aarch64"
+git-tree-sha1 = "8cee2de8627a9f9c44b640f3996fb5282d9a6961"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "51763eab6f4c894b44e6d4b144605a193888cde80277b90dc7b97864d2fd70f0"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "aarch64"
+git-tree-sha1 = "954f0c8faf6691677c436e3aa931c2b3f6531d8e"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "af39445815954721d2957f1f17f82788d8a7165749af428acde4366670d3a6c9"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "aarch64"
+git-tree-sha1 = "a1b360fd97f6eebd190d5d5426aea6d41545e294"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "35bd02187a3f5208e1e7de0fd333f96bdbabbbf8b9c7b28541e075fe70ccd34f"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "aarch64"
+git-tree-sha1 = "8e96a43ab2708227d4df61609660b4744b8d89d4"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "2019ea684a1f21525568e0a09a8d8eed63aeb0f24db84db2a699a05a0a64bd4e"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "aarch64"
+git-tree-sha1 = "fb4dcf9b48ef417d32271377c65f12d3a51bca9a"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "4e8d5572d37122e3f8fa517f131ba668091da6df820cf791d15e39f5e41c69b6"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "aarch64"
+git-tree-sha1 = "cd2d4e83ccb76fd68d968a3019527140e3ea4c7d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "9b0611c4bf0ef55fbaa6ed6d4127e13fdacd10ecc8dd88f1a01c56f1579b667e"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "43c499ab9cbb723eff710916564d120f6eb739dc"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "a78b497600800efa7fb82cb7e5cfc61e232ab1a7fa25d67cd7f9a55171ef06ba"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "74da5d070d1bd9569f107bf1084c03bc4524ef9c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "92732695d33d0cb9260c86c49827e9188c402072c3f3cdb3d907ea348cdffe39"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3f8b12b5cc9c2da07b51969a4d8d6e483ba9a629"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "bdde2dd25a1a922c7cffc065ffc66483da616c70f770099d5f69bffb3833f526"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f1286cc535fec650b2873f84409a5fb613ad169b"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "0fd7b15e052ca80b2e74254d09ead16e25234fdee63736194c7f31f9cdfc3ffc"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c2ff25670ac3b6c5a7acd46b8935e3ff920f86df"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "e644482e437b25a3903dc5570cbdd619068fdc75100fbfa9005ea0ed9f580371"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f7d287558e8f53a4e299a228cfc334cd4674253e"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "284a6b87d444b09356c3ae57bd89fd3f58945c0f55d13e8e9987f30a7209c951"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c4fa50e22e38b9e921cd4ed3b3eb594288061b99"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "4b3910ff4b7ae53bf3d7e60c12f4761054d5efa6017582d4cc1fe328626a6146"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "14d320b355f767c496c138b60f492794bfbfcf9f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "8c7a114c7595d27b075862c9767b47d33a9a47aabfc6362d9e1521146a91b4c7"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bbb573817ff0989a6eb7b2e7756de2d9ce1cd50d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "f1c71e2b3cc5ca08254cd9f27db82fce9edeef56244c9ec45d67cb6e8d53268c"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ae58d7f21840452df645279cf09f218cc3b42ea0"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "fe7c35d6d41fbaa185e8f14ce3946005be74ca781895b7fbe617cf1df54db71a"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4d8384d90ce594dd2da1d251110292a40cd381c8"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "3bdaf6dd6a58bd765208f5f3d3f1a2137cf7a997f3b8d5a630a51af686f0181d"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a62911e70c9d2a5b431800ce75928b5b4c1c69c5"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "1b296c569463150942c38140a1959e1b2678d048a6e85453b254407d15273eac"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "i686"
+git-tree-sha1 = "6c3cade639922100b9c64a68f9fc15620fc129a9"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "8f10fa8ef2ee175e8d52c2a2d28a82c614aedfd302cf93435ae09ab742e19e84"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "i686"
+git-tree-sha1 = "024095e4b1167b3cb738435496a94c6dcc9bf5e6"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "d69f6a9b5b009de77eaa75230bdb45005a5f5355dd07b1525d5c86a3adde2ea9"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "i686"
+git-tree-sha1 = "b2b545991d65a4e1774ee1ee1a2828e3deb5cec0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "969e8bf0d166bc23533e8b744e684231e92653fd57751059f668bdf5ebaea114"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "i686"
+git-tree-sha1 = "5038c3749b9655dbc7d6aca21868c8fa2eae2a19"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "5ce0f9f9d4485697fa7ef9b41f0ec920c2b8e657fab84e941fa7b5d90e8f4143"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.i686-linux-musl-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "i686"
+git-tree-sha1 = "f002ab76f796f3e1910bc25a40147895a6a915b5"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "2a5d37b9a7d9592412b3ec4d1dcda3cfc5e88564c17fd7374bd26ba7ca4d7c71"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.i686-linux-musl-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "i686"
+git-tree-sha1 = "8b7fd1dcb63fe35a461f44c8ed44db595106a8ab"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "cf3a2b126435e73ab3c87f08bc4109aac8d8e3d0aa8a23c5fe08ecd77d6e2435"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.i686-linux-musl-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "i686"
+git-tree-sha1 = "625feb4197da9877c24977be6a5b5791b0afba06"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[TMatrix.download]]
+    sha256 = "9c85512d3d55bcd8ae9772cbdaeb7ad1fb7b336a1b30fb492bd8c787913667e0"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "i686"
+git-tree-sha1 = "27af7c3b3519d08026c43440b3650ca416b27d1c"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[TMatrix.download]]
+    sha256 = "8ae0742412d2c3cc736e60b6593bff9a14c3b157869b2e44a8bd1785cef7657f"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "i686"
+git-tree-sha1 = "1d433f5f9ac45f115b309199019ef6671c9bb7a0"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[TMatrix.download]]
+    sha256 = "e90062e33e126ec1a2b31b652156a291583aea3ae75ba2a214a47b4626518859"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "powerpc64le"
+git-tree-sha1 = "c98ab984a9ea5cb81a2bc4f1d8c95f922eeb3e5a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "8194bfe0a71daa60439383e458d7b69c7797a0cbdfdc535aa620131c8a222699"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "powerpc64le"
+git-tree-sha1 = "833bd702bdf4240c551a7686d77c229c0d2832d0"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "7dc293d0c54835e2dc4bee6227b5c21952f69068c6e87592b234d78cf861cd8c"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "powerpc64le"
+git-tree-sha1 = "9fc1af5b74be79fb1fcec78c97b74a48e188ea8a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "afdf6d1dfd801d82a8162821f8d61c7265ad632a53db71e985f8771aca9a4b1b"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "f048ed31f56dd2d249c017192a8388059eb24edc"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[TMatrix.download]]
+    sha256 = "ddb87b02185bf88c30b405dc4d3f5e0304d05a817507e208b36699d4153b0209"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "8f8d84ae4e33f2f37d49af120b13eeaa09992a9e"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[TMatrix.download]]
+    sha256 = "39e0f013dd25d9ef350ca8322eb33ef09cb33b2b44f22be12ab63c329f6ce707"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "df1200ed7dcfd8520d6cef189f42ae8eafa11473"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[TMatrix.download]]
+    sha256 = "f5953d854b74bdc6e31b8f84c8dd3cf551f4615e3e7b2f5254930a90faea4f21"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "9a76fc923d5efe72b3a5c86a4068f87bcdf50838"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "6b1b6d3240fcd21e87e47eb6c5f270592d79e9b413358f08e6619e24898fc7c9"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "88651d6b25fa58aee21746081215b6e77b7e64cc"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "1354b342de39250164f5b5af7ca55f95b65e4f252e32036838179db19cf3cf94"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "dbed4b9fe9d4a7b30dc2cbc049d89f79338da048"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "a2dad41c4112fea731b3595e8b8e074c7f7b646295ed82bf247c9c97ad45a803"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "e4ee387255d1aa8f494dbe9e87a722cee49bccbf"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "544252f924ca7f91a822f81b7b571c9c9f8422f08061349d8cb8eb7c5a740e5e"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "2bfca0a47def797cc2326f67374dcc544137569d"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "c9af664033f84eb9e50a717fbc752e8a6d8aa841f5cf6e1acb8bd802213169a5"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "340adb0b26379015ac3c697b67a3adfcd34402a8"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[TMatrix.download]]
+    sha256 = "36272504c83970461e67eb4ba8341981d0e5932eb2c19cc294a26b32d5f2b154"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "f58b25c51441d46ab0191380ab34f2ea78d7247a"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[TMatrix.download]]
+    sha256 = "d892bc67b07b7e2e07722e67d2dba12c29cd56f924244b0835fc8be55a4b4fef"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "1df20f339189f356d86b644472f089b32d8620a5"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[TMatrix.download]]
+    sha256 = "4500f85ccdae88bc5250bc5b9749ed81cb1165715dea7a285e1a4ec1a0dfd519"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "60c30c6818ca683a869e1d9df67e491c313c776c"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[TMatrix.download]]
+    sha256 = "c4897a65d23d1333b90d342a648fe3333370331e6de3120c4b8f271f8c53247d"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "5834fc5c0a334e8812125c2d3728369a9b8ad2e6"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[TMatrix.download]]
+    sha256 = "f77fb9381f671d3d71286ada8eafe86f58bd544940af83439a85ff7326ac8337"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "c08e9a15f8b6867db437aaa490fce4891a813f5a"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[TMatrix.download]]
+    sha256 = "ae924ac248ad242dfe1cf40127895d36d1d99ceefbf6ca62b0a76f82172179ae"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[TMatrix]]
+arch = "x86_64"
+git-tree-sha1 = "ab6c6669b33d4fe9dab87ff4643806757e892282"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[TMatrix.download]]
+    sha256 = "ac4d1defa64fecd8ae67b7c41f7a10b635aedbb7f9a0a81afbebc34077d0f3b1"
+    url = "https://github.com/JuliaBinaryWrappers/TMatrix_jll.jl/releases/download/TMatrix-v0.1.0+0/TMatrix.v0.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
